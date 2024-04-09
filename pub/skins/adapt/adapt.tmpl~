@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <!--PageAdaptTitleHomeFmt-->
+ <title>$WikiTitle $ActionTitle</title>
+ <!--PageAdaptTitleFmt-->
+ <title>{$Title} | $WikiTitle $ActionTitle</title>
+ <!--/PageAdaptTitleFmt-->
+ <link rel="stylesheet" href="$SkinDirUrl/pure-min.css">
+ <!--[if lte IE 8]>
+    <link rel="stylesheet" href="$SkinDirUrl/adapt-old-ie.css">
+ <![endif]-->
+ <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="$SkinDirUrl/$AdaptCss">
+ <!--<![endif]-->
+ <!--[if lt IE 9]>
+    <script src="$SkinDirUrl/html5shiv.js"></script>
+ <![endif]-->
+ <!--HTMLHeader-->
+</head>
+
+<body>
+<div id="layout">
+  <div id="main">
+<!--PageHeaderFmt-->
+  <!--Text / Image Logo-->
+  $AdaptLogoFmt
+  <!--RecentChanges and Search-->
+  <div id='wikihead'>
+  <form class='$[pure-form]' action='{$ScriptUrl}'>
+    <span class='headnav'>
+      <span class='allrc'><a href='{$ScriptUrl}/{$SiteGroup}/AllRecentChanges'
+      accesskey='$[ak_recentchanges]'>$[Changes]</a> &middot; </span><span
+      class='grouprc'><a href='{$ScriptUrl}/{$Group}/RecentChanges'
+      >($[Group])</a> &middot;</span>
+    </span>
+    <input type='hidden' name='n' value='{$FullName}' />
+    <input type='hidden' name='action' value='search' />
+    <input type='text' name='q' value=' $[Search] ' class='inputbox'
+        onfocus="if(this.value=' Search ') {this.value=''}"
+        onblur="if(this.value=='') {this.value=' Search '}" />
+    <input type='submit' class='inputbutton $[pure-button] searchbutton'
+      value='$[Go]' /></form></div>
+<!--PageActionFmt-->
+    <div id='wikicmds'><!--wiki:{$Group}.PageActions {$SiteGroup}.PageActions--></div>
+<!--PageAdminFmt-->
+    <div id='wikiadmin'><!--wiki:{$Group}.AdminActions {$SiteGroup}.AdminActions--></div>
+<!--PageTitleFmt-->
+    <div class="title">
+      <div class='pagegroup'><a href='{$ScriptUrl}/{$Group}'>{$Group}</a> /</div>
+      <div class='pagegroup2'>\ <a href='{$ScriptUrl}/{$Group}'>{$Group}</a></div>
+      <h1 class='pagetitle'>{$Title}</h1>
+    </div>
+<!--/PageTitleFmt-->
+    <div class="content">
+<!--PageText-->
+<!--PageLeftFmt-->
+  <!-- HeaderLogo Menu toggle -->
+  <nav><a href="#menu" id="menuLink" class="menu-link">
+    <!-- Hamburger icon -->
+    <span></span>
+  </a>
+  <div id="menu">
+    <div class="pure-menu pure-menu-open">
+      <div class='sidesearch'><form class='$[msearch]' action='{$ScriptUrl}'>
+        <input type='hidden' name='n' value='{$FullName}' />
+        <input type='hidden' name='action' value='search' />
+        <input type='text' name='q' value=' $[Search] ' class='inputbox'
+          onfocus="if(this.value=' $[Search] ') {this.value=''}"
+          onblur="if(this.value=='') {this.value=' Search '}" />
+      </form></div>
+      <!--<div class='sidesearch'><a href='{$ScriptUrl}/$[{$SiteGroup}/Search]'>$[Search]</a></div>-->
+      <!--wiki:{$Group}.AdaptSideBar {$SiteGroup}.AdaptSideBar-->
+      <!--wiki:{$Group}.SideBar {$SiteGroup}.SideBar-->
+    </div>
+  </div></nav>
+<!--PageFooterFmt-->
+      <div id='wikifoot'><div class='footnav'>
+        <a rel="nofollow" href='{$PageUrl}?action=edit'>$[Edit]</a> |
+        <a rel="nofollow" href='{$PageUrl}?action=diff'>$[History]</a> |
+        <a href='{$ScriptUrl}/$[{$Group}/RecentChanges]'>$[Recent Changes]</a>
+        <a href='{$ScriptUrl}/{$SiteGroup}/AllRecentChanges'>($[all])</a> |
+        <a href='{$ScriptUrl}/$[{$SiteGroup}/Search]'>$[Search]</a></div>
+        <div class='lastmod'>$[Page last modified on {$LastModified}]</div>
+      </div>
+<!--PagePoweredbyFmt-->
+      <div id='poweredby'>$AdaptPoweredBy      </div>
+<!--/PagePoweredbyFmt-->
+    </div>
+  </div>
+</div>
+<script src="$SkinDirUrl/ui.js"></script>
+<!--HTMLFooter-->
+</body>
+</html>

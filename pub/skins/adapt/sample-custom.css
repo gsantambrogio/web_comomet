@@ -1,0 +1,19 @@
+/* custom.css -- Adapt Skin custom CSS stylesheet for PmWiki */
+
+/* Font stack that will apply to all content; default is sans-serif otherwise */
+/*
+html, button, input, select, textarea, .pure-g [class *= "pure-u"] {
+ font-family:Georgia, Times, "Times New Roman", serif; } 
+*/
+
+/* Alternative: Use serif font in page area only (except headings)
+   Also provides a %sans% wikistyle */
+/*
+html, .pure-g [class *= "pure-u"] { font-family:
+  Georgia, Times, "Times New Roman", serif; }
+#menu, #wikilogotxt, #wikihead, #wikifoot, #wikicmds,
+.title, .caption, h2, h3, h4, h5, h6, .sans { font-family:
+  FreeSans, Arimo, "Droid Sans", Helvetica, Arial, sans-serif; }
+*/
+
+

@@ -1,0 +1,44 @@
+version=pmwiki-2.3.32 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15
+author=
+charset=UTF-8
+csum=
+host=150.217.157.20
+name=Main.HomePage
+rev=214
+targets=
+text=!!COMOMET: Fundamental Physical Metrology with Cold Molecules%0a%0a%25block text-align=center%25'''23FUN04'''%0a%0a%25block text-align=center%25'''''A Joint Research Project within the European Partnership on Metrology Programme'''''%0a%0a%0aRecently, academic research laboratories have developed advanced instrumentation to cool, manipulate and investigate molecules with extremely high precision, reaching parts in 10'^13^' in some cases. This project aims to unlock the potentials of applying cold molecules in metrology, including the need for establishing frequency standards in the infrared spectrum, testing the fundamental laws of physics that underpin basic metrological principles, such as fundamental symmetries and variation of fundamental constants, and improved determination of fundamental constants, like the proton-to-electron and the deuteron-to-electron mass ratios, the Rydberg constant, and the proton and deuteron charge radii. In this project, fibre-optic connections built during previous EURAMET projects will be used and further extended. Strong collaboration between NMIs and academic participants will lead to full exploitation of frequency references delivered via such fibre networks for molecular spectroscopy experiments.%0a%0aAttach:euramet.png
+time=1712678344
+author:1712678344=
+diff:1712678344:1712678276:=3,6c3,5%0a%3c %25block text-align=center%25'''23FUN04'''%0a%3c %0a%3c %25block text-align=center%25'''''A Joint Research Project within the European Partnership on Metrology Programme'''''%0a%3c %0a---%0a> '''''A Joint Research Project within the European Partnership on Metrology Programme'''''%0a> %0a> %25block text-align=center%25!!!23FUN04%0a
+host:1712678344=150.217.157.20
+author:1712678276=
+diff:1712678276:1712678180:=3,5c3%0a%3c '''''A Joint Research Project within the European Partnership on Metrology Programme'''''%0a%3c %0a%3c %25block text-align=center%25!!!23FUN04%0a---%0a> !!!23FUN04 A Joint Research Project within the European Partnership on Metrology Programme%0a
+host:1712678276=150.217.157.20
+author:1712678180=
+diff:1712678180:1712677778:=3c3%0a%3c !!!23FUN04 A Joint Research Project within the European Partnership on Metrology Programme%0a---%0a> 23FUN04%0a
+host:1712678180=150.217.157.20
+author:1712677778=
+diff:1712677778:1712677754:=4,5d3%0a%3c %0a%3c Recently, academic research laboratories have developed advanced instrumentation to cool, manipulate and investigate molecules with extremely high precision, reaching parts in 10'^13^' in some cases. This project aims to unlock the potentials of applying cold molecules in metrology, including the need for establishing frequency standards in the infrared spectrum, testing the fundamental laws of physics that underpin basic metrological principles, such as fundamental symmetries and variation of fundamental constants, and improved determination of fundamental constants, like the proton-to-electron and the deuteron-to-electron mass ratios, the Rydberg constant, and the proton and deuteron charge radii. In this project, fibre-optic connections built during previous EURAMET projects will be used and further extended. Strong collaboration between NMIs and academic participants will lead to full exploitation of frequency references delivered via such fibre networks for molecular spectroscopy experiments.%0a
+host:1712677778=150.217.157.20
+author:1712677754=
+diff:1712677754:1712665931:=3d2%0a%3c 23FUN04%0a
+host:1712677754=150.217.157.20
+author:1712665931=
+diff:1712665931:1712665862:=1,2c1%0a%3c !!COMOMET: Fundamental Physical Metrology with Cold Molecules%0a%3c %0a---%0a> !Fundamental Physical Metrology with Cold Molecules -- COMOMET%0a
+host:1712665931=150.217.157.20
+author:1712665862=
+diff:1712665862:1712663854:=1,2d0%0a%3c !Fundamental Physical Metrology with Cold Molecules -- COMOMET%0a%3c %0a
+host:1712665862=150.217.157.20
+author:1712663854=
+diff:1712663854:1712663778:=1c1%0a%3c Attach:euramet.png%0a\ No newline at end of file%0a---%0a> Attach:euramet.jpg%0a\ No newline at end of file%0a
+host:1712663854=150.217.157.20
+author:1712663778=
+diff:1712663778:1712663649:=1c1%0a%3c Attach:euramet.jpg%0a\ No newline at end of file%0a---%0a> [[Attach:euramet.jpg]]%0a\ No newline at end of file%0a
+host:1712663778=150.217.157.20
+author:1712663649=
+diff:1712663649:1712663479:=1c1%0a%3c [[Attach:euramet.jpg]]%0a\ No newline at end of file%0a---%0a> Attach:euramet.jpg%0a\ No newline at end of file%0a
+host:1712663649=150.217.157.20
+author:1712663479=
+diff:1712663479:1400472661:=1c1,13%0a%3c Attach:euramet.jpg%0a\ No newline at end of file%0a---%0a> (:Summary:The default home page for the PmWiki distribution:)%0a> Welcome to PmWiki!%0a> %0a> A local copy of PmWiki's%0a> documentation has been installed along with the software,%0a> and is available via the [[PmWiki/documentation index]].  %0a> %0a> To continue setting up PmWiki, see [[PmWiki/initial setup tasks]].%0a> %0a> The [[PmWiki/basic editing]] page describes how to create pages%0a> in PmWiki.  You can practice editing in the [[wiki sandbox]].%0a> %0a> More information about PmWiki is available from [[https://www.pmwiki.org]].%0a
+host:1712663479=150.217.157.20

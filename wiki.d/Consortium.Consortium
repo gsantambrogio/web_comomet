@@ -1,0 +1,78 @@
+version=pmwiki-2.3.32 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15
+author=
+charset=UTF-8
+csum=
+ctime=1712679543
+host=150.217.157.20
+name=Consortium.Consortium
+rev=22
+targets=
+text=!National Metrology institutes%0a%0a||border=0 width=100%25%0a||%25width=400%25[[https://www.inrim.it|Attach:logo_inrim.jpg]]%25%25||%25width=400%25[[https://www.gum.gov.pl |Attach:logo_gum.jpg]]%25%25||%25width=400%25[[https://www.observatoiredeparis.psl.eu |Attach:logo_obsparis.png]]%25%25||%25width=400%25[[https://www.vsl.nl |Attach:logo_vsl.png]]%25%25||%25width=400%25[[https://www.metas.ch/ |Attach:logo_metas.jpg]]%25%25||%0a|| Istituto Nazionale di Ricerca Metrologica, INRIM, Italy || Central Office of Measures, GUM, Poland || Observatoire de Paris, OBSPARIS, France || National Metrology Institute, VSL, The Netherland || Eidgenössisches Institut für Metrologie, METAS, Switzerland ||%0a%0a\\%0a%0a%0a%0a!Research Institutes and Universities%0a%0a||border=0 width=100%25%0a||%25width=400%25[[https://international.au.dk |Attach:logo_au.png]]%25%25||%25width=400%25[[https://www.cnr.it |Attach:logo_cnr.jpg]]%25%25||%25width=400%25[[https://www.cnrs.fr |Attach:logo_cnrs.png]]%25%25||%25width=400%25[[https://portale.hhu.de/Seiten/default.aspx |Attach:logo_hhud.png]]%25%25||%25width=400%25[[https://www.umk.pl |Attach:logo_umk.png]]%25%25||%0a|| Aarhus Universitet, AU, Denmark || Consiglio Nazionale delle Ricerche, CNR, Italy || Centre National de la Recherche Scientifique, CNRS, France || Heinrich-Heine-Universität Düsseldorf, HHUD, Germany || Uniwersytet Mikolaja Kopernika w Toruniu, UMK, Poland ||%0a%0a||%25width=400%25[[https://vu.nl|Attach:logo_vu.png]]%25%25||%25width=400%25[[https://www.univ-evry.fr |Attach:logo_ueve.png]]%25%25||%25width=400%25[[https://ethz.ch |Attach:logo_ethz.jpg]]%25%25||%25width=400%25[[https://www.imperial.ac.uk |Attach:logo_ic.png]]%25%25||%25width=400%25[[https://www.unibas.ch |Attach:logo_unibas.png]]%25%25||%0a|| Vrije Universiteit Amsterdam, VU, The Netherlands || University of Évry Val d'Essonne, UEVE, France || Eidgenössische Technische Hochschule Zürich, ETHZ, Switzerland || Imperial College of Science, Technology and Medicine, IC, United Kingdom || Universität Basel, UNIBAS, Switzerland ||%0a%0a%0a
+time=1712683051
+author:1712683051=
+diff:1712683051:1712682851:=16d15%0a%3c %0a18,20c17,31%0a%3c || Vrije Universiteit Amsterdam, VU, The Netherlands || University of Évry Val d'Essonne, UEVE, France || Eidgenössische Technische Hochschule Zürich, ETHZ, Switzerland || Imperial College of Science, Technology and Medicine, IC, United Kingdom || Universität Basel, UNIBAS, Switzerland ||%0a%3c %0a%3c %0a---%0a> %0a> %0a> %0a> %0a> * [[https://international.au.dk|AU]]%0a> * [[https://www.cnr.it|CNR]]%0a> * [[https://www.cnrs.fr/fr|CNRS]]%0a> * [[https://portale.hhu.de/Seiten/default.aspx|HHUD]]%0a> * [[https://www.umk.pl|UMK]]%0a> * [[https://vu.nl|VU]]%0a> * [[https://www.univ-evry.fr/|UEVE]]%0a> * [[https://ethz.ch/|ETHZ]]%0a> * [[https://www.imperial.ac.uk/|IC]]%0a> * [[https://www.metas.ch/|METAS]]%0a> * [[https://www.unibas.ch/|UNIBAS]]%0a\ No newline at end of file%0a
+host:1712683051=150.217.157.20
+author:1712682851=
+diff:1712682851:1712682700:=
+host:1712682851=150.217.157.20
+author:1712682700=
+diff:1712682700:1712682532:=16c16%0a%3c ||%25width=400%25[[https://vu.nl|Attach:logo_vu.png]]%25%25||%25width=400%25[[https://www.univ-evry.fr |Attach:logo_ueve.png]]%25%25||%25width=400%25[[https://ethz.ch |Attach:logo_ethz.jpg]]%25%25||%25width=400%25[[https://www.imperial.ac.uk |Attach:logo_ic.png]]%25%25||%25width=400%25[[https://www.unibas.ch |Attach:logo_unibas.png]]%25%25||%0a---%0a> ||%25width=400%25[[https://vu.nl|Attach:logo_vu.png]]%25%25||%25width=400%25Attach:logo_ueve.png%25%25||%25width=400%25Attach:logo_ethz.jpg%25%25||%25width=400%25Attach:logo_hhud.png%25%25||%25width=400%25Attach:logo_umk.png%25%25||%0a
+host:1712682700=150.217.157.20
+author:1712682532=
+diff:1712682532:1712682473:=16c16%0a%3c ||%25width=400%25[[https://vu.nl|Attach:logo_vu.png]]%25%25||%25width=400%25Attach:logo_ueve.png%25%25||%25width=400%25Attach:logo_ethz.jpg%25%25||%25width=400%25Attach:logo_hhud.png%25%25||%25width=400%25Attach:logo_umk.png%25%25||%0a---%0a> ||[[https://vu.nl|%25width=400%25Attach:logo_vu.png%25%25]]||%25width=400%25Attach:logo_ueve.png%25%25||%25width=400%25Attach:logo_ethz.jpg%25%25||%25width=400%25Attach:logo_hhud.png%25%25||%25width=400%25Attach:logo_umk.png%25%25||%0a
+host:1712682532=150.217.157.20
+author:1712682473=
+diff:1712682473:1712682407:=16c16%0a%3c ||[[https://vu.nl|%25width=400%25Attach:logo_vu.png%25%25]]||%25width=400%25Attach:logo_ueve.png%25%25||%25width=400%25Attach:logo_ethz.jpg%25%25||%25width=400%25Attach:logo_hhud.png%25%25||%25width=400%25Attach:logo_umk.png%25%25||%0a---%0a> ||[[https://vu.nl|VU|%25width=400%25Attach:logo_vu.png%25%25]]||%25width=400%25Attach:logo_ueve.png%25%25||%25width=400%25Attach:logo_ethz.jpg%25%25||%25width=400%25Attach:logo_hhud.png%25%25||%25width=400%25Attach:logo_umk.png%25%25||%0a
+host:1712682473=150.217.157.20
+author:1712682407=
+diff:1712682407:1712682303:=14c14%0a%3c ||%25width=400%25[[https://international.au.dk |Attach:logo_au.png]]%25%25||%25width=400%25[[https://www.cnr.it |Attach:logo_cnr.jpg]]%25%25||%25width=400%25[[https://www.cnrs.fr |Attach:logo_cnrs.png]]%25%25||%25width=400%25[[https://portale.hhu.de/Seiten/default.aspx |Attach:logo_hhud.png]]%25%25||%25width=400%25[[https://www.umk.pl |Attach:logo_umk.png]]%25%25||%0a---%0a> ||%25width=400%25Attach:logo_au.png%25%25||%25width=400%25Attach:logo_cnr.jpg%25%25||%25width=400%25Attach:logo_cnrs.png%25%25||%25width=400%25Attach:logo_hhud.png%25%25||%25width=400%25Attach:logo_umk.png%25%25||%0a19,20c19,20%0a%3c %0a%3c %0a---%0a> * [[https://www.observatoiredeparis.psl.eu|OBSPARIS]]%0a> * [[https://www.vsl.nl|VSL]]%0a
+host:1712682407=150.217.157.20
+author:1712682303=
+diff:1712682303:1712682234:=4c4%0a%3c ||%25width=400%25[[https://www.inrim.it|Attach:logo_inrim.jpg]]%25%25||%25width=400%25[[https://www.gum.gov.pl |Attach:logo_gum.jpg]]%25%25||%25width=400%25[[https://www.observatoiredeparis.psl.eu |Attach:logo_obsparis.png]]%25%25||%25width=400%25[[https://www.vsl.nl |Attach:logo_vsl.png]]%25%25||%25width=400%25[[https://www.metas.ch/ |Attach:logo_metas.jpg]]%25%25||%0a---%0a> ||%25width=400%25[[https://www.inrim.it|Attach:logo_inrim.jpg]]%25%25||%25width=400%25[[https://www.gum.gov.pl |Attach:logo_gum.jpg]]%25%25||%25width=400%25Attach:logo_obsparis.png%25%25||%25width=400%25Attach:logo_vsl.png%25%25||%25width=400%25Attach:logo_metas.jpg%25%25||%0a18c18,19%0a%3c %0a---%0a> [[https://www.inrim.it|INRIM]]%0a> * [[https://www.gum.gov.pl|GUM]]%0a
+host:1712682303=150.217.157.20
+author:1712682234=
+diff:1712682234:1712682158:=4c4%0a%3c ||%25width=400%25[[https://www.inrim.it|Attach:logo_inrim.jpg]]%25%25||%25width=400%25[[https://www.gum.gov.pl |Attach:logo_gum.jpg]]%25%25||%25width=400%25Attach:logo_obsparis.png%25%25||%25width=400%25Attach:logo_vsl.png%25%25||%25width=400%25Attach:logo_metas.jpg%25%25||%0a---%0a> ||[[https://www.inrim.it|%25width=400%25Attach:logo_inrim.jpg%25%25]]||%25width=400%25Attach:logo_gum.jpg%25%25||%25width=400%25Attach:logo_obsparis.png%25%25||%25width=400%25Attach:logo_vsl.png%25%25||%25width=400%25Attach:logo_metas.jpg%25%25||%0a
+host:1712682234=150.217.157.20
+author:1712682158=
+diff:1712682158:1712682117:=4c4%0a%3c ||[[https://www.inrim.it|%25width=400%25Attach:logo_inrim.jpg%25%25]]||%25width=400%25Attach:logo_gum.jpg%25%25||%25width=400%25Attach:logo_obsparis.png%25%25||%25width=400%25Attach:logo_vsl.png%25%25||%25width=400%25Attach:logo_metas.jpg%25%25||%0a---%0a> ||%25width=400%25Attach:logo_inrim.jpg%25%25||%25width=400%25Attach:logo_gum.jpg%25%25||%25width=400%25Attach:logo_obsparis.png%25%25||%25width=400%25Attach:logo_vsl.png%25%25||%25width=400%25Attach:logo_metas.jpg%25%25||%0a18,26c18%0a%3c [[https://www.inrim.it|INRIM]]%0a%3c * [[https://www.gum.gov.pl|GUM]]%0a%3c * [[https://www.observatoiredeparis.psl.eu|OBSPARIS]]%0a%3c * [[https://www.vsl.nl|VSL]]%0a%3c * [[https://international.au.dk|AU]]%0a%3c * [[https://www.cnr.it|CNR]]%0a%3c * [[https://www.cnrs.fr/fr|CNRS]]%0a%3c * [[https://portale.hhu.de/Seiten/default.aspx|HHUD]]%0a%3c * [[https://www.umk.pl|UMK]]%0a---%0a> %0a32c24%0a%3c * [[https://www.unibas.ch/|UNIBAS]]%0a\ No newline at end of file%0a---%0a> * [[https://www.unibas.ch/|UNIBAS]]%0a
+host:1712682158=150.217.157.20
+author:1712682117=
+diff:1712682117:1712681946:=16d15%0a%3c ||[[https://vu.nl|VU|%25width=400%25Attach:logo_vu.png%25%25]]||%25width=400%25Attach:logo_ueve.png%25%25||%25width=400%25Attach:logo_ethz.jpg%25%25||%25width=400%25Attach:logo_hhud.png%25%25||%25width=400%25Attach:logo_umk.png%25%25||%0a
+host:1712682117=150.217.157.20
+author:1712681946=
+diff:1712681946:1712681777:=15,17c15,21%0a%3c || Aarhus Universitet, AU, Denmark || Consiglio Nazionale delle Ricerche, CNR, Italy || Centre National de la Recherche Scientifique, CNRS, France || Heinrich-Heine-Universität Düsseldorf, HHUD, Germany || Uniwersytet Mikolaja Kopernika w Toruniu, UMK, Poland ||%0a%3c %0a%3c %0a---%0a> %0a> %0a> * [[https://international.au.dk|AU]]%0a> * [[https://www.cnr.it|CNR]]%0a> * [[https://www.cnrs.fr/fr|CNRS]]%0a> * [[https://portale.hhu.de/Seiten/default.aspx|HHUD]]%0a> * [[https://www.umk.pl|UMK]]%0a
+host:1712681946=150.217.157.20
+author:1712681777=
+diff:1712681777:1712681358:=7,10d6%0a%3c \\%0a%3c %0a%3c %0a%3c %0a14c10%0a%3c ||%25width=400%25Attach:logo_au.png%25%25||%25width=400%25Attach:logo_cnr.jpg%25%25||%25width=400%25Attach:logo_cnrs.png%25%25||%25width=400%25Attach:logo_hhud.png%25%25||%25width=400%25Attach:logo_umk.png%25%25||%0a---%0a> ||%25width=400%25Attach:logo_au.png%25%25||%0a
+host:1712681777=150.217.157.20
+author:1712681358=
+diff:1712681358:1712681233:=6,12c6,9%0a%3c %0a%3c !Research Institutes and Universities%0a%3c %0a%3c ||border=0 width=100%25%0a%3c ||%25width=400%25Attach:logo_au.png%25%25||%0a%3c %0a%3c %0a---%0a> * [[https://www.inrim.it|INRIM]]%0a> * [[https://www.gum.gov.pl|GUM]]%0a> * [[https://www.observatoiredeparis.psl.eu|OBSPARIS]]%0a> * [[https://www.vsl.nl|VSL]]%0a
+host:1712681358=150.217.157.20
+author:1712681233=
+diff:1712681233:1712681014:=5c5%0a%3c || Istituto Nazionale di Ricerca Metrologica, INRIM, Italy || Central Office of Measures, GUM, Poland || Observatoire de Paris, OBSPARIS, France || National Metrology Institute, VSL, The Netherland || Eidgenössisches Institut für Metrologie, METAS, Switzerland ||%0a---%0a> ||%25block text-align=center%25Istituto Nazionale di Ricerca Metrologica, INRIM, Italy||Central Office of Measures, GUM, Poland||Observatoire de Paris, OBSPARIS, France||National Metrology Institute, VSL, The Netherland||Eidgenössisches Institut für Metrologie, METAS, Switzerland||%0a
+host:1712681233=150.217.157.20
+author:1712681014=
+diff:1712681014:1712680960:=5c5%0a%3c ||%25block text-align=center%25Istituto Nazionale di Ricerca Metrologica, INRIM, Italy||Central Office of Measures, GUM, Poland||Observatoire de Paris, OBSPARIS, France||National Metrology Institute, VSL, The Netherland||Eidgenössisches Institut für Metrologie, METAS, Switzerland||%0a---%0a> ||Istituto Nazionale di Ricerca Metrologica, INRIM, Italy||Central Office of Measures, GUM, Poland||Observatoire de Paris, OBSPARIS, France||National Metrology Institute, VSL, The Netherland||Eidgenössisches Institut für Metrologie, METAS, Switzerland||%0a
+host:1712681014=150.217.157.20
+author:1712680960=
+diff:1712680960:1712680779:=5c5%0a%3c ||Istituto Nazionale di Ricerca Metrologica, INRIM, Italy||Central Office of Measures, GUM, Poland||Observatoire de Paris, OBSPARIS, France||National Metrology Institute, VSL, The Netherland||Eidgenössisches Institut für Metrologie, METAS, Switzerland||%0a---%0a> ||Istituto Nazionale di Ricerca Metrologica ||%0a
+host:1712680960=150.217.157.20
+author:1712680779=
+diff:1712680779:1712680719:=5c5%0a%3c ||Istituto Nazionale di Ricerca Metrologica ||%0a---%0a> %0a
+host:1712680779=150.217.157.20
+author:1712680719=
+diff:1712680719:1712680685:=4c4%0a%3c ||%25width=400%25Attach:logo_inrim.jpg%25%25||%25width=400%25Attach:logo_gum.jpg%25%25||%25width=400%25Attach:logo_obsparis.png%25%25||%25width=400%25Attach:logo_vsl.png%25%25||%25width=400%25Attach:logo_metas.jpg%25%25||%0a---%0a> ||%25width=400%25Attach:logo_inrim.jpg%25%25||%25width=400%25Attach:logo_gum.jpg%25%25||%25width=400%25Attach:logo_obsparis.png%25%25||%25width=400%25Attach:logo_vsl.jpg%25%25||%25width=400%25Attach:logo_metas.jpg%25%25||%0a
+host:1712680719=150.217.157.20
+author:1712680685=
+diff:1712680685:1712680624:=
+host:1712680685=150.217.157.20
+author:1712680624=
+diff:1712680624:1712680262:=3,4c3,4%0a%3c ||border=0 width=100%25%0a%3c ||%25width=400%25Attach:logo_inrim.jpg%25%25||%25width=400%25Attach:logo_gum.jpg%25%25||%25width=400%25Attach:logo_obsparis.png%25%25||%25width=400%25Attach:logo_vsl.jpg%25%25||%25width=400%25Attach:logo_metas.jpg%25%25||%0a---%0a> ||border=0%0a> ||Attach:logo_inrim.jpg||Attach:logo_gum.jpg||Attach:logo_obsparis.png||Attach:logo_vsl.jpg||Attach:logo_metas.jpg||%0a
+host:1712680624=150.217.157.20
+author:1712680262=
+diff:1712680262:1712679543:=1,5d0%0a%3c !National Metrology institutes%0a%3c %0a%3c ||border=0%0a%3c ||Attach:logo_inrim.jpg||Attach:logo_gum.jpg||Attach:logo_obsparis.png||Attach:logo_vsl.jpg||Attach:logo_metas.jpg||%0a%3c %0a
+host:1712680262=150.217.157.20
+author:1712679543=
+diff:1712679543:1712679543:=1,15d0%0a%3c * [[https://www.inrim.it|INRIM]]%0a%3c * [[https://www.gum.gov.pl|GUM]]%0a%3c * [[https://www.observatoiredeparis.psl.eu|OBSPARIS]]%0a%3c * [[https://www.vsl.nl|VSL]]%0a%3c * [[https://international.au.dk|AU]]%0a%3c * [[https://www.cnr.it|CNR]]%0a%3c * [[https://www.cnrs.fr/fr|CNRS]]%0a%3c * [[https://portale.hhu.de/Seiten/default.aspx|HHUD]]%0a%3c * [[https://www.umk.pl|UMK]]%0a%3c * [[https://vu.nl|VU]]%0a%3c * [[https://www.univ-evry.fr/|UEVE]]%0a%3c * [[https://ethz.ch/|ETHZ]]%0a%3c * [[https://www.imperial.ac.uk/|IC]]%0a%3c * [[https://www.metas.ch/|METAS]]%0a%3c * [[https://www.unibas.ch/|UNIBAS]]%0a
+host:1712679543=150.217.157.20

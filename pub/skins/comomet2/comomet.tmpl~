@@ -1,0 +1,62 @@
+<html>
+  <head>
+    <title>$WikiTitle: $Group, $Title $Action</title>
+    <meta http-equiv='Content-Style-Type' content='text/css' />
+    <meta http-equiv='author' content='FHI' />
+    <link rel='stylesheet' href='$SkinDirUrl/comomet.css' type='text/css' />
+    <!--HeaderText-->
+  </head>
+  <body>
+    <table width="100%" height=100% cellspacing="0" cellpadding="0">
+      <tr height=60>
+        <td  rowspan=2 id="wikilogo">
+          <a href="{$ScriptUrl}"><!--- <img src="$PageLogoUrl" alt="$WikiTitle"/> -->
+          </a>
+        </td>
+        <td colspan=2 id="wikihead" align="left" valign=top>
+          <!--PageTitleFmt-->
+          <div>
+		<span style="font-size:110%">Gabriele Santambrogio &ndash; </span>
+		<span style="font-size:155%">Molecule Chip</span></div>
+          <div style="font-size:110%">CNR&ndash;Istituto Nazionale di Ottica & LENS</div>
+        </td>
+      </tr>
+      <tr height=20>    
+        <td id="wikihead" align="left" valign=bottom style="padding-left:21px;">
+          <!--wiki:Main.MenuLeft-->
+        </td>
+        <td id="wikihead" align="right" valign=bottom> 
+           <A HREF="http://comomet.lens.unifi.it"><IMG SRC="$SkinDirUrl/home.png"></A>&nbsp;&nbsp;&nbsp;&nbsp;
+                                         <!-- <A HREF="http://www.cnr.it">CNR</A>&nbsp;&nbsp;&nbsp;&nbsp; -->
+                                         <A HREF="http://www.fhi-berlin.mpg.de/">FHI</A>&nbsp;&nbsp;&nbsp;&nbsp;
+                                         <A HREF="http://www.ino.it">INO</A>&nbsp;&nbsp;&nbsp;&nbsp;
+					 <A HREF="http://www.lens.unifi.it">LENS</A>&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+      </tr>
+        <!--PageHeaderFmt-->
+      <tr>
+        <td id='wikileft' valign='top'>
+          <!--PageLeftFmt-->
+          <!--wiki:{$Group}.SideBar {$SiteGroup}.SideBar-->
+          <!--/PageLeftFmt-->
+        </td>
+        <td colspan=2 id='wikibody' valign='top'>
+          <!--PageText-->
+        </td>
+      </tr>
+      <!--PageFooterFmt-->
+      <tr height=23>
+        <td id='wikifoot' valign=top>
+          <!--wiki:Main.FootLeft-->
+        </td>
+        <td  id='wikifoot' valign=top  style="padding-left:21px;">
+           <!--wiki:Main.FootMenu-->
+        </td>
+        <td  id='wikifoot' valign=top align="right">
+           <!--wiki:Main.FootRight-->
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+

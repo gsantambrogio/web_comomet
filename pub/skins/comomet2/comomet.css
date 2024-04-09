@@ -1,0 +1,117 @@
+body {
+  font-family: sans-serif;
+  background-color: #880000; 
+  margin-left:0px; 
+        margin-right:0px; 
+        margin-top:0px; 
+        margin-bottom:0px; 
+  font-size:11pt; 
+}
+
+h1, h2, h3, h4, h5 { line-height:1em; }
+h1 { font-size:140%;font-family:sans-serif;color:#880000; }
+h2 { font-size:120%;font-family:sans-serif;color:#880000;}
+h3 { font-size:100%;font-family:sans-serif;color:#880000; }
+h4 { font-size:100%; }
+h5 { font-size:100%; font-weight:normal; font-style:italic; }
+
+#wikileft h1 { font-size:125%;font-family:serif;
+               margin-bottom:0px;color:#880000; }
+#wikileft h2 { font-size:115%;font-family: serif;
+               margin-bottom:0px;color:#880000;}
+#wikileft h3 { font-size:110%;margin-bottom:0px;color: #880000; }
+#wikileft h4 { font-size:100%;margin-bottom:0px;color: #880000; }
+#wikileft h5 { font-size:100%;font-weight:normal; font-style:italic;  margin-bottom:0px;color: #880000;}
+
+#wikilogo { 
+  background-color: #880000;
+  border-bottom:0px #880000 solid; 
+  border-left:0px #880000 solid; 
+  color: white;
+  padding:10px 0px 10px 20px;
+}
+
+textarea, pre, tt { font-size:11pt; }
+
+#wikihead { 
+  background-color: #880000;
+  border-bottom:0px #880000 solid; 
+  color: white;
+  font-family:sans-serif; font-size:100%;
+  padding:6px 16px 6px 6px;
+}
+#wikihead td { padding:8px 8px 8px 8px; } 
+#wikihead input { font-size:85%; } 
+#wikihead a { 
+        font-size:80%;
+        font-family:sans-serif;
+        text-decoration:none; 
+        color:#CCCCCC;border:2px
+}
+#wikihead a:hover { text-decoration:underline; }
+
+#wikileft { 
+  background-color: #dedede;
+  width: 147px;
+        border-right:0px #880000 solid; 
+  padding:20px 10px 10px 20px;
+  font-size: 85%;
+  font-family: sans-serif;
+}
+#wikileft a { text-decoration:none; color:#012152; }
+#wikileft a:hover { text-decoration:underline; color:#012152; }
+#wikileft ul { list-style:none; padding:5px; margin:0px; }
+#wikileft li { margin-top:4px; }
+
+#wikicmds { float:right; font-family:sans-serif; font-size:80%;  }
+#wikicmds ul { list-style:none; }
+#wikicmds li { display:inline; margin:0px 5px; }
+#wikicmds li a { text-decoration:none; color:black; }
+#wikicmds li a:hover { text-decoration:underline; color:blue; }
+
+
+#wikibody { padding:10px 30px 10px 30px; background-color:f0f0f0; }
+#wikibody a { color:#305090;text-decoration:none; }
+#wikibody a:hover { text-decoration:underline; }
+
+
+
+#wikitext { line-height:1.25em; }
+
+.pagegroup { margin-top:0px; font-size:120%; }
+.pagetitle { margin-top:0px; font-weight:bold; font-size:180%; }
+
+
+#wikimenu { 
+  padding:1px 4px 4px 4px; 
+  background-color: #880000;
+  border-top:0px #880000 solid; 
+  color: #CCCCCC; 
+  font-size:75%; 
+  font-family:sans-serif;
+}
+#wikimenu a { 
+        font-size:100%;
+        font-family:sans-serif;
+        text-decoration:none; 
+        color:#CCCCCC;border:2px
+}
+#wikifoot { 
+  padding:4px 10px 4px 10px; 
+  background-color: #880000;
+  border-top:0px #880000 solid; 
+  color: #CCCCCC; 
+  font-size:75%; 
+  font-family:sans-serif;
+}
+#wikifoot a { 
+        font-size:100%;
+        font-family:sans-serif;
+        text-decoration:none; 
+        color:#CCCCCC;border:2px
+}
+#wikifoot a:hover { text-decoration:underline; }
+
+#wikiedit form { margin:0px; }
+#wikiedit textarea { width:98%; }
+
